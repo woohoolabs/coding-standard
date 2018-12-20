@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ruleset name="woohoolabs/package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vendor/squizlabs/php_codesniffer/phpcs.xsd">
+    <description>PHP Coding Standards for woohoolabs/package</description>
+
+    <arg name="basepath" value="."/>
+    <arg name="extensions" value="php"/>
+    <arg name="colors" />
+
+    <!-- Show progress of the run -->
+    <arg value="p"/>
+
+    <rule ref="WoohooLabs"/>
+
+    <file>src</file>
+    <file>tests</file>
+</ruleset>
