@@ -81,12 +81,13 @@
     <!-- Forbid uses of multiple traits separated by comma -->
     <rule ref="SlevomatCodingStandard.Classes.TraitUseDeclaration"/>
 
+    <!-- Disabling this rule
     <rule ref="SlevomatCodingStandard.Commenting.DocCommentSpacing">
         <properties>
             <property name="linesCountBeforeFirstContent" value="0"/>
             <property name="linesCountAfterLastContent" value="0"/>
-            <property name="linesCountBetweenDescriptionAndAnnotations" value="0"/>
-            <property name="linesCountBetweenAnnotationsGroups" value="0"/>
+            <property name="linesCountBetweenDescriptionAndAnnotations" value="1"/>
+            <property name="linesCountBetweenAnnotationsGroups" value="1"/>
             <property name="annotationsGroups" type="array">
                 <element value="
                     @internal,
@@ -103,6 +104,7 @@
             </property>
         </properties>
     </rule>
+    -->
 
     <!-- Forbid useless annotations - Git and LICENCE file provide more accurate information -->
     <rule ref="SlevomatCodingStandard.Commenting.ForbiddenAnnotations">
