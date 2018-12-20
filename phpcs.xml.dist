@@ -11,6 +11,6 @@
 
     <rule ref="WoohooLabs"/>
 
-    <file>src</file>
-    <file>tests</file>
+    <file>src/</file>
+    <file>tests/</file>
 </ruleset>
