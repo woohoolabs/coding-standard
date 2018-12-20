@@ -1,5 +1,5 @@
 {
-    "name": "woohoolabs/php-coding-standard",
+    "name": "woohoolabs/coding-standard",
     "description": "Woohoo Labs. PHP Coding Standard",
     "type": "library",
     "keywords": ["Woohoo Labs.", "Coding Standard", "PHP CS"],
@@ -11,8 +11,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/woohoolabs/php-coding-standard/issues",
-        "source": "https://github.com/woohoolabs/php-coding-standard"
+        "issues": "https://github.com/woohoolabs/coding-standard/issues",
+        "source": "https://github.com/woohoolabs/coding-standard"
     },
     "require": {
         "php": "^7.1.0",

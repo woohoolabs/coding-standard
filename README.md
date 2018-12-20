@@ -32,7 +32,7 @@ The only thing you need before getting started is [Composer](https://getcomposer
 To install the latest version of this library, run the command below:
 
 ```bash
-$ composer require woohoolabs/php-coding-standard
+$ composer require woohoolabs/coding-standard
 ```
 
 The latest version of PHP Coding Standard requires PHP 7.1 at least.
@@ -65,11 +65,11 @@ Please see [SUPPORT](SUPPORT.md) for details.
 
 The MIT License (MIT). Please see the [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/woohoolabs/php-coding-standard.svg
+[ico-version]: https://img.shields.io/packagist/v/woohoolabs/coding-standard.svg
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg
-[ico-downloads]: https://img.shields.io/packagist/dt/woohoolabs/php-coding-standard.svg
+[ico-downloads]: https://img.shields.io/packagist/dt/woohoolabs/coding-standard.svg
 
-[link-packagist]: https://packagist.org/packages/woohoolabs/php-coding-standard
-[link-downloads]: https://packagist.org/packages/woohoolabs/php-coding-standard
+[link-packagist]: https://packagist.org/packages/woohoolabs/coding-standard
+[link-downloads]: https://packagist.org/packages/woohoolabs/coding-standard
 [link-author]: https://github.com/kocsismate
 [link-contributors]: ../../contributors
