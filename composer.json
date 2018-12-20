@@ -1,7 +1,7 @@
 {
     "name": "woohoolabs/coding-standard",
     "description": "Woohoo Labs. PHP Coding Standard",
-    "type": "library",
+    "type": "phpcodesniffer-standard",
     "keywords": ["Woohoo Labs.", "Coding Standard", "PHP CS"],
     "license": "MIT",
     "authors": [
@@ -16,6 +16,8 @@
     },
     "require": {
         "php": "^7.1.0",
-        "squizlabs/php_codesniffer": "^3.4.0"
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+        "squizlabs/php_codesniffer": "^3.4.0",
+        "slevomat/coding-standard": "^4.8.0"
     }
 }
