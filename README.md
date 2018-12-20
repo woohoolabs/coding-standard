@@ -4,18 +4,15 @@
 [![Software License][ico-license]](LICENSE.md)
 [![Total Downloads][ico-downloads]][link-downloads]
 
-**Woohoo Labs. PHP Coding Standard**
+**Woohoo Labs. PHP Coding Standard based on PSR-12, Doctrine, and Slevomat Coding Standards**
 
 ## Table of Contents
 
 * [Introduction](#introduction)
 * [Install](#install)
-* [Basic Usage](#basic-usage)
-* [Advanced Usage](#advanced-usage)
-* [Examples](#examples)
+* [Usage](#basic-usage)
 * [Versioning](#versioning)
 * [Change Log](#change-log)
-* [Testing](#testing)
 * [Contributing](#contributing)
 * [Support](#support)
 * [Credits](#credits)
@@ -37,8 +34,7 @@ $ composer require woohoolabs/coding-standard
 
 The latest version of PHP Coding Standard requires PHP 7.1 at least.
 
-## Basic Usage
-## Advanced Usage
+## Usage
 
 ## Versioning
 
