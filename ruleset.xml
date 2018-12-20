@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ruleset name="Wohoo Labs">
+    <description>Woohoo Labs. PHP Coding Standard</description>
+
+    <!-- Rules -->
+    <rule ref="PSR12"/>
+    <rule ref="Generic.Arrays.DisallowLongArraySyntax"/>
+    <rule ref="Generic.Files.LineLength">
+        <properties>
+            <property name="lineLimit" value="160"/>
+            <property name="absoluteLineLimit" value="200"/>
+        </properties>
+    </rule>
+</ruleset>

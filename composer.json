@@ -1,0 +1,21 @@
+{
+    "name": "woohoolabs/php-coding-standard",
+    "description": "Woohoo Labs. PHP Coding Standard",
+    "type": "library",
+    "keywords": ["Woohoo Labs.", "Coding Standard", "PHP CS"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Máté Kocsis",
+            "email": "kocsismate@woohoolabs.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/woohoolabs/php-coding-standard/issues",
+        "source": "https://github.com/woohoolabs/php-coding-standard"
+    },
+    "require": {
+        "php": "^7.1.0",
+        "squizlabs/php_codesniffer": "^3.4.0"
+    }
+}
