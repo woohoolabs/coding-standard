@@ -20,6 +20,9 @@
 
 ## Introduction
 
+This library provides the Woohoo Labs. Coding Standard rules for PHP CodeSniffer. It is inspired by and built upon
+the [Doctrine Coding Standard](https://github.com/doctrine/coding-standard) and the [Slevomat Coding Standard](https://github.com/slevomat/coding-standard).
+
 ## Install
 
 The only thing you need before getting started is [Composer](https://getcomposer.org).
@@ -35,6 +38,9 @@ $ composer require woohoolabs/coding-standard
 The latest version of PHP Coding Standard requires PHP 7.1 at least.
 
 ## Usage
+
+Just add the default `phpcs.xml` file (it can be found in the root directory) to your project and you are ready to use
+the Woohoo Labs. Coding Standard when running `phpcs`.
 
 ## Versioning
 
