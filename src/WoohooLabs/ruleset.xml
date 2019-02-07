@@ -133,9 +133,6 @@
     <!-- Forbid fancy yoda conditions -->
     <rule ref="SlevomatCodingStandard.ControlStructures.DisallowYodaComparison"/>
 
-    <!-- Forbid weak comparisons -->
-    <rule ref="SlevomatCodingStandard.ControlStructures.DisallowEqualOperators"/>
-
     <!-- Disallow useless else/elseif conditions -->
     <rule ref="SlevomatCodingStandard.ControlStructures.EarlyExitSniff"/>
 
@@ -199,6 +196,9 @@
             <property name="linesCountBetweenUseTypes" value="0"/>
         </properties>
     </rule>
+
+    <!-- Forbid weak comparisons -->
+    <rule ref="SlevomatCodingStandard.Operators.DisallowEqualOperators"/>
 
     <!-- Forbid whitespace after the spread operator -->
     <rule ref="SlevomatCodingStandard.Operators.SpreadOperatorSpacingSniff"/>
