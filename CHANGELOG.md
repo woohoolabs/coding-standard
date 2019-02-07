@@ -8,6 +8,12 @@ REMOVED:
 
 FIXED:
 
+## 1.1.2 - 2019-02-07
+
+REMOVED:
+
+- Check for early exit
+
 ## 1.1.1 - 2019-02-07
 
 FIXED:

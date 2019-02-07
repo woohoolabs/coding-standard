@@ -133,9 +133,6 @@
     <!-- Forbid fancy yoda conditions -->
     <rule ref="SlevomatCodingStandard.ControlStructures.DisallowYodaComparison"/>
 
-    <!-- Disallow useless else/elseif conditions -->
-    <rule ref="SlevomatCodingStandard.ControlStructures.EarlyExitSniff"/>
-
     <!-- Require language constructs without parentheses -->
     <rule ref="SlevomatCodingStandard.ControlStructures.LanguageConstructWithParentheses"/>
 
@@ -201,7 +198,7 @@
     <rule ref="SlevomatCodingStandard.Operators.DisallowEqualOperators"/>
 
     <!-- Forbid whitespace after the spread operator -->
-    <rule ref="SlevomatCodingStandard.Operators.SpreadOperatorSpacingSniff"/>
+    <rule ref="SlevomatCodingStandard.Operators.SpreadOperatorSpacing"/>
 
     <!-- Forbid `list(...)` syntax -->
     <rule ref="SlevomatCodingStandard.PHP.ShortList"/>
