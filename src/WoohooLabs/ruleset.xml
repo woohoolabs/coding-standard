@@ -136,6 +136,9 @@
     <!-- Forbid weak comparisons -->
     <rule ref="SlevomatCodingStandard.ControlStructures.DisallowEqualOperators"/>
 
+    <!-- Disallow useless else/elseif conditions -->
+    <rule ref="SlevomatCodingStandard.ControlStructures.EarlyExitSniff"/>
+
     <!-- Require language constructs without parentheses -->
     <rule ref="SlevomatCodingStandard.ControlStructures.LanguageConstructWithParentheses"/>
 
@@ -196,6 +199,9 @@
             <property name="linesCountBetweenUseTypes" value="0"/>
         </properties>
     </rule>
+
+    <!-- Forbid whitespace after the spread operator -->
+    <rule ref="SlevomatCodingStandard.Operators.SpreadOperatorSpacingSniff"/>
 
     <!-- Forbid `list(...)` syntax -->
     <rule ref="SlevomatCodingStandard.PHP.ShortList"/>
