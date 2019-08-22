@@ -8,6 +8,14 @@ REMOVED:
 
 FIXED:
 
+## 2.0.1 - 2019-08-22
+
+REMOVED:
+
+- Check to forbid usage of conditions when a simple return can be used
+- Check to require types to be written as natively if possible
+- Check to force rules for function phpDoc
+
 ## 2.0.0 - 2019-08-22
 
 ADDED:
