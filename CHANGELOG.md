@@ -8,11 +8,25 @@ REMOVED:
 
 FIXED:
 
+## 2.1.1 - 2019-10-04
+
+FIXED:
+
+- SlevomatCodingStandard.Namespaces.UseSpacing.IncorrectLinesCountBetweenDifferentTypeOfUse was configured in a way which prevented PSR-12 conformance
+
 ## 2.1.0 - 2019-10-04
 
 CHANGED:
 
 - Require PHP CodeSniffer 3.5.0 at least
+
+FIXED:
+
+- SlevomatCodingStandard.TypeHints.DeclareStrictTypes was configured in a way which prevented PSR-12 conformance
+
+REMOVED:
+
+- SlevomatCodingStandard.TypeHints.DeclareStrictTypes became unnecessary
 
 ## 2.0.1 - 2019-08-22
 
