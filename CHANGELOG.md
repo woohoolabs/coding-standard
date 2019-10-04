@@ -1,4 +1,4 @@
-## 2.1.0 - unreleased
+## 2.2.0 - unreleased
 
 ADDED:
 
@@ -7,6 +7,12 @@ CHANGED:
 REMOVED:
 
 FIXED:
+
+## 2.1.0 - 2019-10-04
+
+CHANGED:
+
+- Require PHP CodeSniffer 3.5.0 at least
 
 ## 2.0.1 - 2019-08-22
 

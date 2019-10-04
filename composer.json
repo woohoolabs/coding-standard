@@ -18,7 +18,7 @@
         "php": "^7.4.0",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
         "slevomat/coding-standard": "^5.0.0",
-        "squizlabs/php_codesniffer": "^3.4.0"
+        "squizlabs/php_codesniffer": "^3.5.0"
     },
     "require-dev": {
         "woohoolabs/releaser": "^1.1.0"
