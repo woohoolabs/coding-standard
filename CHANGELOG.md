@@ -16,7 +16,7 @@ ADDED:
 
 CHANGED:
 
-- Increased minim version requirement of slevomat/coding-standard to v6
+- Increased minimum version requirement of slevomat/coding-standard to v6
 
 ## 2.1.1 - 2019-10-04
 
