@@ -1,7 +1,7 @@
 # Woohoo Labs. PHP Coding Standard
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
+[![Software License][ico-license]](LICENSE)
 [![Total Downloads][ico-downloads]][link-downloads]
 
 **Woohoo Labs. PHP Coding Standard based on PSR-12, Doctrine, and Slevomat Coding Standards**
@@ -35,7 +35,7 @@ To install the latest version of this library, run the command below:
 $ composer require woohoolabs/coding-standard
 ```
 
-The latest version of PHP Coding Standard requires PHP 7.1 at least.
+The latest version of PHP Coding Standard requires PHP 7.4 at least.
 
 ## Usage
 
@@ -65,7 +65,7 @@ Please see [SUPPORT](SUPPORT.md) for details.
 
 ## License
 
-The MIT License (MIT). Please see the [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see the [License File](LICENSE) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/woohoolabs/coding-standard.svg
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg
