@@ -202,7 +202,7 @@
 
     <!-- Forbid assignments in conditions -->
     <rule ref="SlevomatCodingStandard.ControlStructures.AssignmentInCondition"/>
-    
+
     <!-- Forbid fancy yoda conditions -->
     <rule ref="SlevomatCodingStandard.ControlStructures.DisallowYodaComparison"/>
 
