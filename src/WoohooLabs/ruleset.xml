@@ -202,16 +202,7 @@
 
     <!-- Forbid assignments in conditions -->
     <rule ref="SlevomatCodingStandard.ControlStructures.AssignmentInCondition"/>
-
-    <!-- Require consistent spacing for control structures -->
-    <rule ref="SlevomatCodingStandard.ControlStructures.ControlStructureSpacing">
-        <properties>
-            <property name="tokensToCheck" type="array">
-                <element value="T_RETURN" />
-            </property>
-        </properties>
-    </rule>
-
+    
     <!-- Forbid fancy yoda conditions -->
     <rule ref="SlevomatCodingStandard.ControlStructures.DisallowYodaComparison"/>
 
