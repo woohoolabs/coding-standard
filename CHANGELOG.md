@@ -1,4 +1,4 @@
-## 2.2.0 - unreleased
+## 2.3.0 - unreleased
 
 ADDED:
 
@@ -7,6 +7,16 @@ CHANGED:
 REMOVED:
 
 FIXED:
+
+## 2.2.0 - 2020-07-21
+
+ADDED:
+
+- Support for PHP 8.0
+
+CHANGED:
+
+- Increased minim version requirement of slevomat/coding-standard to v6
 
 ## 2.1.1 - 2019-10-04
 
