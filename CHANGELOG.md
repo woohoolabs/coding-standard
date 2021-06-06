@@ -1,3 +1,13 @@
+## 2.4.0 - unreleased
+
+ADDED:
+
+CHANGED:
+
+REMOVED:
+
+FIXED:
+
 ## 2.3.0 - 2021-06-06
 
 CHANGED:
