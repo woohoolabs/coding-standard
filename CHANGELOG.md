@@ -1,12 +1,12 @@
-## 2.3.0 - unreleased
-
-ADDED:
+## 2.3.0 - 2021-06-06
 
 CHANGED:
 
+- Allow to install slevomat/coding-standard v7
+
 REMOVED:
 
-FIXED:
+- SlevomatCodingStandard.Classes.UnusedPrivateElements rule
 
 ## 2.2.0 - 2020-07-21
 
