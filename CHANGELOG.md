@@ -1,12 +1,9 @@
-## 2.4.0 - unreleased
-
-ADDED:
+## 2.4.0 - 2023-08-13
 
 CHANGED:
 
-REMOVED:
-
-FIXED:
+- Use slevomat/coding-standard v8
+- Updated dependencies
 
 ## 2.3.0 - 2021-06-06
 
